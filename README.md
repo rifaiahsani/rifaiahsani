@@ -1,5 +1,9 @@
 # Hi there! I'm Rifa'i Nur Ahsani 👋
  An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
+
+ <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
+</div>
  
  ## 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
@@ -18,13 +22,12 @@
    _Achieved 4th Place in Journalism, Photography, and Publication at the Jumpa Karya Prestasi Red Cross Youth competition, a provincial-level event organized by SMAN 2 Ponorogo on July 27–28, 2024._
   ### 5th Place - 2D Mascot Design | Temu Aksi & Prestasi Season 4 | 2023
    _Achieved 5th Place in the 2D Mascot Design competition at the national-level event Temu Aksi dan Prestasi Season 4, organized by KSR-PMI Unit IAIN Ponorogo on August 26, 2023. The event carried the theme: “Show Your Action, Achieve High Performance and Creativity.”_
-   ## 📫 Let's Connect
 
    <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+   ## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rifaiahsani" target="_blank">
@@ -35,9 +38,6 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
@@ -45,15 +45,10 @@
   <img src="https://streak-stats.demolab.com?user=rifaiahsani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
+
 <!--
 **rifaiahsani/rifaiahsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
