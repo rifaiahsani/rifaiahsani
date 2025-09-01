@@ -5,7 +5,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
 
-## [**DOWNLOAD CV**](https://drive.google.com/file/d/1shxuOCCos9lvwO2rr7ZlOA5h6X3Gy257/view?usp=drive_link)
+## [**DOWNLOAD CV**](https://drive.google.com/file/d/18am1aNWktcK89W6dGwkHlF6bhREWkms_/view?usp=sharing)
  
  ## 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
