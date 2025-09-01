@@ -1,5 +1,5 @@
 ## Hi there! I'm Rifa'i Nur Ahsani 👋
-
+# An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
 <!--
 **rifaiahsani/rifaiahsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
