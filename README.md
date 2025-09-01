@@ -1,5 +1,6 @@
 # Hi there! I'm Rifa'i Nur Ahsani 👋
  An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
+ 
  ## 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
   
@@ -8,6 +9,7 @@
   🌱 **Learning Journey** : Continuously exploring ways to combine numbers, logic, and creativity to create meaningful digital solutions.
   
   📍 **Location** : Ketintang, Surabaya, East Java, Indonesia.
+
 
  ## 🏆 Selected Achievements
   ### @ 2nd Place - Journalism & Videography | GALAPALMERA | 2025
@@ -44,7 +46,14 @@
 </div>
 
 ###
-   
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <!--
 **rifaiahsani/rifaiahsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
