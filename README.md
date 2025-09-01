@@ -2,8 +2,11 @@
  An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
  # 🚀 About Me 
   🎓 Current status : Mathematics student at Surabaya State University.
+  
   💡 Key Interests : Mathematics as the Foundation | Web & Mobile Development | UI/UX Explorer | Creating Creative Digital Solutions.
+  
   🌱 Learning Journey : Continuously exploring ways to combine numbers, logic, and creativity to create meaningful digital solutions.
+  
   📍 Location : Ketintang, Surabaya, East Java, Indonesia.
 <!--
 **rifaiahsani/rifaiahsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
