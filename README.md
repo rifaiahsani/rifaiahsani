@@ -1,15 +1,7 @@
 # Hi there! I'm Rifa'i Nur Ahsani 👋
  An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
 
- <div align="center">
-  <img height="150" src="https://photos.app.goo.gl/i2EA3ikmfARoP7Mu6"  />
-</div>
-
- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-## [**CV**](https://drive.google.com/file/d/18am1aNWktcK89W6dGwkHlF6bhREWkms_/view?usp=sharing)
+## [**DOWNLOAD CV**](https://drive.google.com/file/d/18am1aNWktcK89W6dGwkHlF6bhREWkms_/view?usp=sharing)
  
  # 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
@@ -20,7 +12,7 @@
   
   📍 **Location** : Ketintang, Surabaya, East Java, Indonesia.
 
-<h3 align="left">🛠 Language and tools</h3>
+# 🛠 Language and tools</h3>
 
 ###
 
