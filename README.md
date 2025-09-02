@@ -7,7 +7,7 @@
 
 ## [**CV**](https://drive.google.com/file/d/18am1aNWktcK89W6dGwkHlF6bhREWkms_/view?usp=sharing)
  
- ## 🚀 About Me 
+ # 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
   
   💡 **Key Interests** : Mathematics as the Foundation | Web & Mobile Development | UI/UX Explorer | Creating Creative Digital Solutions.
@@ -42,7 +42,7 @@
 
 ###
 
- ## 🏆 Selected Achievements
+ # 🏆 Selected Achievements
   ### 2nd Place - Journalism & Videography | GALAPALMERA | 2025
    _Achieved 2nd Place in Journalism and Videography at GALAPALMERA 2025, a Red Cross Youth creativity and achievement event at the provincial level, organized by PMR SMAN 1 Ponorogo on January 25–26, 2025_
   ### 4th Place - Journalism, Photography & Publication | Jumpa Karya Prestasi | 2024
@@ -54,7 +54,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-   ## 📫 Let's Connect
+   # 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rifaiahsani" target="_blank">
