@@ -2,6 +2,10 @@
  An enthusiastic Mathematics student and logical problem-solver, passionate about developing impactful analytical and creative solutions across various fields..
 
  <div align="center">
+  <img height="150" src="https://photos.app.goo.gl/i2EA3ikmfARoP7Mu6"  />
+</div>
+
+ <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
 
