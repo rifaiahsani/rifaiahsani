@@ -40,17 +40,6 @@
 
 ###
 
- # 🏆 Selected Achievements
-  ### 2nd Place - Journalism & Videography | GALAPALMERA | 2025
-   _Achieved 2nd Place in Journalism and Videography at GALAPALMERA 2025, a Red Cross Youth creativity and achievement event at the provincial level, organized by PMR SMAN 1 Ponorogo on January 25–26, 2025_
-  ### 4th Place - Journalism, Photography & Publication | Jumpa Karya Prestasi | 2024
-   _Achieved 4th Place in Journalism, Photography, and Publication at the Jumpa Karya Prestasi Red Cross Youth competition, a provincial-level event organized by SMAN 2 Ponorogo on July 27–28, 2024._
-  ### 5th Place - 2D Mascot Design | Temu Aksi & Prestasi Season 4 | 2023
-   _Achieved 5th Place in the 2D Mascot Design competition at the national-level event Temu Aksi dan Prestasi Season 4, organized by KSR-PMI Unit IAIN Ponorogo on August 26, 2023. The event carried the theme: “Show Your Action, Achieve High Performance and Creativity.”_
-
-   <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
    # 📫 Let's Connect
 
