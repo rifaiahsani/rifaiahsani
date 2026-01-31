@@ -4,11 +4,7 @@
  
  # 🚀 About Me 
   🎓 **Current status** : Mathematics student at Surabaya State University.
-  
-  💡 **Key Interests** : Mathematics as the Foundation | Creating Creative Digital Solutions.
-  
-  🌱 **Learning Journey** : Continuously exploring ways to combine numbers, logic, and creativity to create meaningful digital solutions.
-  
+
   📍 **Location** : Surabaya, East Java, Indonesia.
 
 # 🛠 Language and Tools</h3>
